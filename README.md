@@ -1,1 +1,3 @@
 # nes-emulator
+
+I've been meaning to learn Rust...
